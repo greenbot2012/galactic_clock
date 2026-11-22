@@ -11,4 +11,4 @@ It supports displaying the weather next to the time as well
 It uses the brightness sensor to auto-adjust the brightness depending on lighting conditions around the board.
 # Setup
 Simply just copy the source code onto the galactic unicorn's storage using an IDE such as Thonny to transfer each file.
-Next fill out WIFI_SSID and WIFI_PASSWORD with your wifi ssid and wifi password(who would've guessed) in secrets.py, alongside your approximate longitude and latitude, which is needed to display the weather.
+Next, fill out WIFI_SSID and WIFI_PASSWORD with your wifi ssid and wifi password(who would've guessed) in secrets.py, alongside your approximate longitude and latitude, which is needed to display the weather.
